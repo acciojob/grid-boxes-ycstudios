@@ -1,5 +1,4 @@
-/*  your css code here. If applicable */
- .box {
+.box {
             background-color: green;
             color: white;
             display: flex;
@@ -8,8 +7,8 @@
             font-size: 24px;
             font-weight: bold;
             border: 2px solid white;
-            height: 100px;
+            padding: 20px;
         }
         .full-height {
-            height: 200px;
+            height: 100%;
         }
